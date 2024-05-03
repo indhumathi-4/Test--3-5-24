@@ -36,17 +36,9 @@ border-radius: 20px;
     border: none;
 display: inline-block;
 margin-right: 7px;
+      background-color:hsl(212, 19%, 34%) ;
 }
-#one,#two,#three{
-    background-color:hsl(212, 19%, 34%) ;
 
-}
-#four{
-    background-color:hsl(217, 12%, 63%) ;
-}
-#five{
-    background-color:hsl(25, 97%, 53%) ;
-}
 .S{
     button{
         width:250px;
